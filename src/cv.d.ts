@@ -123,14 +123,14 @@ type Language =
   | "Bengali"
   | string
 
-interface Projects {
-  name: string
-  isActive: boolean
-  description: string
-  highlights: Highlight
-  url: string
-  github?: string
-}
+  interface Projects {
+    name: string
+    isActive: boolean
+    description: string
+    highlights: Highlight
+    url: string
+    github?: string // Añade esta línea
+  }
 
 interface Interests {
   name: string

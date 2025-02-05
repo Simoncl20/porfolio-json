@@ -241,7 +241,8 @@
         "Next.js",
         "React.js"
       ],
-      "url": "https://www.storend.com.co/"
+      "url": "https://www.storend.com.co/",
+      "github" : null
     },
     {
       "name": "Ramsan Seguridad",
@@ -251,7 +252,8 @@
         "Figma",
         "Diseño UX | UI"
       ],
-      "url": "https://seguridadramsan.com/"
+      "url": "https://seguridadramsan.com/",
+      "github" : null
     }
   ]
 }
